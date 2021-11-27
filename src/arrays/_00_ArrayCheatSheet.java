@@ -31,7 +31,7 @@ public class _00_ArrayCheatSheet {
 		//8. without printing the entire array, print only the smallest number in the array
 		
 		//9 print the entire array to see if step 8 was correct
-		
+		//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
 		//10. print the largest number in the array.
 	}
 }
