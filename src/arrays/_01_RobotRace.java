@@ -19,7 +19,7 @@ bots[i].setY(500);
 bots[i].setSpeed(2);
 }
 		//4. make each robot start at the bottom of the screen, side by side, facing up
-
+//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
 
 	//5. use another for loop to iterate through the array and make each robot move 
 	//   a random amount less than 50.
