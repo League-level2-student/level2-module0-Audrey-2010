@@ -36,7 +36,7 @@ for(int i = 0; i<bots.length; i++) {
 
 	//9. make the robots race around a circular track.
 }
-}
+} 
 
 
 
