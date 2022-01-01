@@ -67,7 +67,7 @@ public class _02_FindTheHiddenButton implements ActionListener{
 		window.setVisible(true);
 		window.pack();
 		//12. Give the user the instructions for the game.
-		
+		//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
 		//13. initialize the hiddenButton variable to a random number less than the int created in step 3
 		
 		//14. Set the text of the JButton located at hiddenButton to  "ME"
