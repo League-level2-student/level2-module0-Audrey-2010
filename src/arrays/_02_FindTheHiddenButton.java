@@ -36,7 +36,7 @@ public class _02_FindTheHiddenButton implements ActionListener{
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		JOptionPane.showMessageDialog(null, "find the very hidden button");
-		
+		 
 		//3.  Ask the user to enter a positive number and convert it to an int
 		String positivenumber = JOptionPane.showInputDialog("enter a positive number. please");
 		int number = Integer.parseInt(positivenumber);
